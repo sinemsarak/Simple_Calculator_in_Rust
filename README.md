@@ -1,1 +1,1 @@
-# A Simple Calculator written in Rust
+# A simple calculator written in Rust
